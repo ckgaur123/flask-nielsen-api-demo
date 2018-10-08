@@ -1,0 +1,9 @@
+setting up this demo requires an authentication token
+
+if you have an Answers account, you can request access by sending an email to tvapi@nielsen.com
+
+then will provide you a code you can use to get a token
+https://portal.developer.nielsen.com/national-tv-analytics-api/apis/post/watchapi/oauth/token
+
+you will then need a to create a file named nielsen-api-token.txt in this folder including text like the following: 
+Bearer ABCDEFGhijklmnop123456789abc
